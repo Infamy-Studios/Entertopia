@@ -1,6 +1,6 @@
-# MelloHub
+# Entertopia
 
-**MelloHub** is your go-to spot for unblocked, fun games with a smooth and simple experience. Enjoy a variety of games, all with no restrictions and an easy-to-use design.
+**Entertopia** is your go-to spot for unblocked, fun games with a smooth and simple experience. Enjoy a variety of games, all with no restrictions and an easy-to-use design.
 
 ## Features
 - Unblocked games for all devices
@@ -10,23 +10,23 @@
 - No ads or distractions
 
 ## Getting Started
-1. Visit [MelloHub](#) to start playing games.
+1. Visit [Entertopia](#) to start playing games.
 2. Browse the categories or search for your favorite game.
 3. Play and enjoy without any restrictions!
 
 ## FAQ
 
-### 1. **Are the games on MelloHub really unblocked?**
+### 1. **Are the games on Entertopia really unblocked?**
    Yes! All the games on MelloHub are unblocked and accessible from any location, including schools and workplaces.
 
 ### 2. **Do I need to create an account to play?**
-   No, you can start playing immediately without creating an account.
+   No, it is optional but you can start playing immediately without creating an account.
 
 ### 3. **Are there any ads on the website?**
-   We strive to provide an ad-free, smooth experience. MelloHub focuses on delivering quality gameplay without interruptions.
+   We strive to provide an ad-free, smooth experience. Entertopia focuses on delivering quality gameplay without interruptions.
 
-### 4. **Can I play MelloHub games on mobile devices?**
-   Yes, MelloHub is fully optimized for mobile devices, so you can enjoy games on your phone or tablet.
+### 4. **Can I play Entertopia games on mobile devices?**
+   Yes, Entertopia is fully optimized for mobile devices, so you can enjoy games on your phone or tablet.
 
 ### 5. **How do I report a problem with a game?**
    If you encounter any issues with a game, you can contact us at [infamystudioscontact@gmail.com](mailto:infamystudioscontact@gmail.com), and we'll assist you promptly.
